@@ -1,0 +1,7 @@
+lista 3 quetão 1
+
+Um ponteiro é uma variavel que guarda um endereço de outra variavel. Ponteirossão usados para varer vetores.
+
+
+
+
