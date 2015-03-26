@@ -1,0 +1,11 @@
+lista 3 quetão 8
+
+int main(){
+	int x, *px;
+	
+	px = &x;
+	scanf("%d", px);
+	*px = *px/5;
+	printf("%d", *px);
+	return 0;
+}
