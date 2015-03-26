@@ -1,3 +1,0 @@
-lista 3 quetão 6
-
-Não, porque o scanf esta apontando para o valor e não para o endereço.
