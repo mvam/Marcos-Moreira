@@ -1,3 +1,0 @@
-lista 3 quetão 4
-
-C, avariavel apontada por pont.
