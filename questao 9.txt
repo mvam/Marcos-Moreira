@@ -1,7 +1,7 @@
 lista 3 quetão 9
 
-a)falso
+a) Verdade
 
-b)
+b) -2
 
-c)
+c) 3
