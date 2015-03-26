@@ -1,3 +1,2 @@
 lista 3 quetão 10
 
-Daria um erro, pois o tipo de variavel de entrada de *p é incompativel com o tipo de variavel de saida. 
