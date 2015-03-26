@@ -1,3 +1,0 @@
-lista 3 quetão 2
-
-B, int *ptr;
