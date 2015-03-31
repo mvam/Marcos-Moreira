@@ -1,0 +1,1 @@
+Esse programa lê um número inteiro e em seguida o exibe na tela.
