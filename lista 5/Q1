@@ -1,0 +1,16 @@
+Estrutura da Pilha:
+#define MAX 50
+    struct ​pilha {
+    int n;
+    float​ vet[MAX];
+};  
+
+a)
+
+Pilha* criar (void)
+{
+    Pilha* p = (Pilha*) malloc(sizeof(Pilha));
+    p->n = 0;
+    return p;
+}
+
